@@ -47,6 +47,7 @@
             this.tb_Response.Location = new System.Drawing.Point(13, 45);
             this.tb_Response.Multiline = true;
             this.tb_Response.Name = "tb_Response";
+            this.tb_Response.ScrollBars = System.Windows.Forms.ScrollBars.Vertical;
             this.tb_Response.Size = new System.Drawing.Size(757, 458);
             this.tb_Response.TabIndex = 1;
             // 
