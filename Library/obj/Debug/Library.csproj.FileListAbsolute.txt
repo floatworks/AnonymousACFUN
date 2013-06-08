@@ -1,5 +1,0 @@
-D:\git\AnonymousACfun\Library\bin\Debug\AnonymousACfun.Library.dll
-D:\git\AnonymousACfun\Library\bin\Debug\AnonymousACfun.Library.pdb
-D:\git\AnonymousACfun\Library\obj\Debug\ResolveAssemblyReference.cache
-D:\git\AnonymousACfun\Library\obj\Debug\AnonymousACfun.Library.dll
-D:\git\AnonymousACfun\Library\obj\Debug\AnonymousACfun.Library.pdb

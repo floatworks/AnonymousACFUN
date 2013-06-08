@@ -1,8 +1,0 @@
-D:\git\AnonymousACfun\UnitTest\bin\Debug\AnonymousACfun.UnitTest.exe.config
-D:\git\AnonymousACfun\UnitTest\bin\Debug\AnonymousACfun.UnitTest.exe
-D:\git\AnonymousACfun\UnitTest\bin\Debug\AnonymousACfun.UnitTest.pdb
-D:\git\AnonymousACfun\UnitTest\bin\Debug\AnonymousACfun.Library.dll
-D:\git\AnonymousACfun\UnitTest\bin\Debug\AnonymousACfun.Library.pdb
-D:\git\AnonymousACfun\UnitTest\obj\x86\Debug\ResolveAssemblyReference.cache
-D:\git\AnonymousACfun\UnitTest\obj\x86\Debug\AnonymousACfun.UnitTest.exe
-D:\git\AnonymousACfun\UnitTest\obj\x86\Debug\AnonymousACfun.UnitTest.pdb
